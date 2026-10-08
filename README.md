@@ -26,7 +26,7 @@ Explore my repositories to see what I'm building and learning.
 
 ### 🤝 Let's Connect
 
-Connect with me on [LinkedIn](www.linkedin.com/in/foyinsola-o-b14bb6376).
+Connect with me on [LinkedIn](https://linkedin.com/in/foyinsola-o-b14bb6376).
 
 ---
 
