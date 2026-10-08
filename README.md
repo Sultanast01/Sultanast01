@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Sultanast01/Sultanast01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Hey, I'm Sultana! 👋
+## Hey, I'm Sultana! 👋
 
 ### Machine Learning Engineer | Data Scientist
 
