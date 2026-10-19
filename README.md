@@ -1,4 +1,4 @@
-## Hey, I'm Sultana! 👋
+## Hii, I'm Sultana! 👋
 
 ### Machine Learning Engineer | Data Scientist
 
