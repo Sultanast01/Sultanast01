@@ -8,9 +8,9 @@ I enjoy working with data, building machine learning models, and exploring pract
 
 ### 🛠️ Tech Stack
 
-* **Languages:** Python, SQL
+* **Languages:** Python, SQL, Java, C++
 * **Machine Learning:** PyTorch, TensorFlow, scikit-learn
-* **Data Analysis:** Pandas, NumPy, Matplotlib
+* **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn
 * **Tools:** Git, GitHub, Google Colab
 
 ### 🚀 What I'm Working On
